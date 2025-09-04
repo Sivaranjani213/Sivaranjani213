@@ -28,7 +28,7 @@
 ## 📫 How to reach me
 - Email: ranjanih213@gmail.com
 - LinkedIn: www.linkedin.com/in/sivaranjani-r213
-- GitHub: github.com/Sivaranjani213
+- GitHub: https://github.com/Sivaranjani213
 
 ---
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
